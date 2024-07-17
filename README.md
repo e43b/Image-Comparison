@@ -62,7 +62,7 @@ The output will display the similarity metrics for the given images and provide 
 
 ### Sample Output
 
-![mdf](fox/mdf.png) ![ori](fox/ori.png)
+![foxs](fox/foxs.png)
 
 ```
 Histogram similarity: 0.5765597414419016
