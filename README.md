@@ -1,4 +1,4 @@
-# Image Comparison
+# Image Comparison [![Views](https://hits.sh/github.com/e43bimgcomparasion/hits.svg)](https://github.com/e43b/Image-Comparison/)
 
 This project provides a tool to compare two images using various similarity metrics, including histograms, structural similarity index (SSIM), mean squared error (MSE), mean absolute error (MAE), feature matching, and image hashing.
 
