@@ -60,9 +60,11 @@ python main.py 1.png 2.png
 
 The output will display the similarity metrics for the given images and provide an overall assessment of their similarity.
 
-### Sample Output
+### Sample Input
 
 ![foxs](fox/foxs.png)
+
+### Sample Output
 
 ```
 Histogram similarity: 0.5765597414419016
