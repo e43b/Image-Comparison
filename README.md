@@ -2,6 +2,12 @@
 
 This project provides a tool to compare two images using various similarity metrics, including histograms, structural similarity index (SSIM), mean squared error (MSE), mean absolute error (MAE), feature matching, and image hashing.
 
+[![Donate](https://img.shields.io/badge/Donate-Oxapay-blue)](https://oxapay.com/donate/40874860)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-blue)](https://discord.gg/bEyHhmbRVw)
+
+**GitHub Project**: [DC Server Link Check](https://github.com/e43b/Image-Comparison/)  
+**Author**: [e43b](https://github.com/e43b) 
+
 ## Features
 
 - **Histogram Comparison:** Compares the color distribution of the images.
@@ -102,9 +108,3 @@ The images are structurally similar, but differ in color.
 ## Overview
 
 Based on the comparison metrics, the tool will provide an overall assessment of the similarity between the images.
-
-## Additional Information
-
-- **Discord Server:** [Join Here](https://discord.gg/bEyHhmbRVw)
-- **GitHub:** [My GitHub Profile](https://github.com/e43b)
-- **Donations:** [Donate Here](https://oxapay.com/donate/40874860)
