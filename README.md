@@ -62,6 +62,8 @@ The output will display the similarity metrics for the given images and provide 
 
 ### Sample Output
 
+![mdf](fox/mdf.png) ![ori](fox/ori.png)
+
 ```
 Histogram similarity: 0.5765597414419016
 Explanation: Values close to 1 indicate high similarity in the color distributions of the images.
